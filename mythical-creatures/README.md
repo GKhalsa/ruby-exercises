@@ -13,6 +13,7 @@ A collection of simple exercises to practice Ruby and TDD
 * `medusa_test.rb`
 * `werewolf_test.rb`
 * `centaur_test.rb`
+* `the_journey_test.rb` 
 
 ## Extra Challenges
 
@@ -43,3 +44,4 @@ tests exercising some of the following concepts:
 * Using methods to change the internal state of an instance
 * Using methods to query the internal state of an instance
 * Functionality that necessitates the internal use of an Array
+
